@@ -1,1 +1,1 @@
-# odin-recipes
+This is a coding exercise that will create a recipe page using basic HTML.
